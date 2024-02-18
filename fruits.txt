@@ -3,3 +3,5 @@ Pears
 Orange
 Pineapple
 Mango
+Cherry
+Orange
